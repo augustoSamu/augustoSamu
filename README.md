@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Samuel</h1>
-<h3 align="center">Um estudante na área de back-end do Brasil</h3>
+<h3 align="center">Um estudante na área de back-end</h3>
 
 - 🔭 Eu estou trabalhando no projeto **Aprendendo OAuth**
 
