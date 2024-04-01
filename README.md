@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center">Eu sou um aspirante na área de back-end do Brasil. Estou me formando em Análise e Desenvolvimento de Sistemas pela São Paulo Tech School e atualmente trabalho na elera. Uso principalmente Java e SpringBoot, mas estou aberto a aprender novas tecnologias e diferentes desafios. Também gosto da parte de desenvolvimento web, como o front-end, em que busco criar projetos com HTML/CSS/JS.</p>
+<p align="center">Eu sou um estudante na área de back-end do Brasil. Estou me formando em Análise e Desenvolvimento de Sistemas pela São Paulo Tech School e atualmente trabalho na elera. Uso principalmente Java e SpringBoot, mas estou aberto a aprender novas tecnologias e diferentes desafios. Também gosto da parte de desenvolvimento web, como o front-end, em que busco criar projetos com HTML/CSS/JS.</p>
 
 <br><br>
 
