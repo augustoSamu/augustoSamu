@@ -2,11 +2,11 @@
 
 ---
 
-<p align="center">Eu sou um estudante na área de back-end do Brasil. Estou me formando em Análise e Desenvolvimento de Sistemas pela São Paulo Tech School e atualmente trabalho na elera. Uso principalmente Java e SpringBoot, mas estou aberto a aprender novas tecnologias e diferentes desafios. Também gosto da parte de desenvolvimento web, como o front-end, em que busco criar projetos com HTML/CSS/JS.</p>
+<p align="center">Eu sou um estudante na área de front-end como de back-end do Brasil. Uso principalmente Phyton, Java e SpringBoot, mas estou aberto a aprender novas tecnologias e diferentes desafios.</p>
 
 <br><br>
 
-<img alt="Gif de uma fogueira" align="right" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="400">
+<img alt="fogueira" align="right" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="400">
 
 <h3>Sobre mim</h3>
 
