@@ -16,7 +16,7 @@
 
 <br>
 
-- 🌱 Aprendendo Flexbox e Grid Layout.
+- 🌱 Aprendendo a criar experiências visuais sofisticadas
 
 <br><br>
 
