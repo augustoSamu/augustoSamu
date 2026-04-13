@@ -1,40 +1,47 @@
 ![Header Banner](./assets/banner.png)
 
----
+<a href="https://www.linkedin.com/in/samuel-augusto-silva/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="samuel-augusto-silva"/></a>
 
-<p align="center">Eu sou um estudante na área de front-end, com inutito de criar interfaces agrdáveis e creativas. Uso principalmente ReactJS com TailwindCSS e Vite, mas estou aberto a aprender novas tecnologias e diferentes desafios.</p>
-
-<br><br>
-
-<img alt="fogueira" align="right" src="assets/fogueira.gif" width="400">
-
-<h3>Sobre mim</h3>
-
-<br>
-
-- 💻 Atualmente estou trabalho em projetos voltados para criação do meu portfólio pessoal.
-
-<br>
-
-- 🌱 Aprendendo a criar experiências visuais sofisticadas
-
-<br><br>
-
----
-
-<br>
-<div align="center">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,java,spring,mysql,npm,git,vscode,idea,figma">
-  </a>
+<div style='display: flex'>
+    <div style='width: 70%'>
+        <p align='start'>
+            ⭐ Engenheiro de Software Backend C#, .NET Core, ASP.NET e Node.JS <br>
+            🧑‍🎓 Graduado em Análise e Desenvolvimento de Sistemas pela São Paulo Tech School - SPTECH <br>
+            📚 Técnólogo em Desenvolvimento de Sistemas pela ETEC Jardim Ângela <br>
+            💼 Atualmente atuo no BTG Pactual, desenvolvendo soluções que transformam dados financeiros em inteligência para gestão de crédito e visão gerencial/contábil 
+          <br>
+        </p>
+    </div>
 </div>
+
 <br>
 
----
+<div align="">
 
-<div align="center" margin="0">
-  <img alt="Status" src="https://github-readme-stats-rho-topaz.vercel.app/api?username=augustosamu&theme=prussian&&bg_color=00000000&show_icons=false&hide_border=true&card_width=350&locale=pt-br&hide=issues&witdh=50%" />
-  <img alt="Linguagens mais utilizadas" src="https://github-readme-stats-rho-topaz.vercel.app/api/top-langs?username=augustosamu&theme=prussian&bg_color=00000000&show_icons=true&hide_border=true&layout=compact&card_width=350&locale=pt-br&size_weight=0.5&count_weight=0.5&height=100%" />
+  <!-- 💻 Linguagens -->
+  <div style="min-width: 200px;">
+    <p><strong>Linguagens</strong></p>
+    <img src="https://skillicons.dev/icons?i=cs,java,js,ts&perline=4" />
+  </div>
+
+  <!-- ⚙️ Frameworks -->
+  <div style="min-width: 200px;">
+    <p><strong>Frameworks</strong></p>
+    <img src="https://skillicons.dev/icons?i=dotnet,spring,angular,nodejs&perline=4" />
+  </div>
+
+  <!-- 🗄️ Databases -->
+  <div style="min-width: 200px;">
+    <p><strong>Databases</strong></p>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql&perline=4" />
+  </div>
+
+  <!-- 🧩 Outros -->
+  <div style="min-width: 200px;">
+    <p><strong>Cloud & DevOps</strong></p>
+    <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,rabbitmq&perline=4" />
+  </div>
+
 </div>
 
 <br>
